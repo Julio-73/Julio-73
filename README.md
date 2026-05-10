@@ -66,20 +66,6 @@ I believe in ethical AI, continuous learning, and shipping code that matters.
       <a href="https://github.com/julio-73/Sistema-Inteligente-de-Control-Operativo-Logistico"><strong>View Project »</strong></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>[Nombre del Proyecto Real 3]</h3>
-      <p>[Descripción breve]</p>
-      <p><strong>Tech:</strong> [Tecnologías]</p>
-      <a href="[LINK]"><strong>View Project »</strong></a>
-    </td>
-    <td width="50%">
-      <h3>[Nombre del Proyecto Real 4]</h3>
-      <p>[Descripción]</p>
-      <p><strong>Tech:</strong> [Tecnologías]</p>
-      <a href="[LINK]"><strong>View Project »</strong></a>
-    </td>
-  </tr>
 </table>
 
 ---
