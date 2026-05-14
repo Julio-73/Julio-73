@@ -12,15 +12,13 @@
   <a href="https://www.linkedin.com/in/julio-cesar-quispe-garrido/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Julio-73"  target="_blank">
+  <a href=" https://julio-73.github.io/Ironman-landing-page/#portfolio"  target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio_Web-0d1117?style=for-the-badge&logo=google-chrome&logoColor=FF6F00" alt="Portfolio"/>
   </a>
   <a href="julioquispe.dev@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/-julioquispegarrido132@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
-  <a href="https://maps.app.goo.gl/search/San+Juan+de+Miraflores,+Lima,+Peru" target="_blank">
-    <img src="https://img.shields.io/badge/-Lima,_Perú-0d1117?style=for-the-badge&logo=google-maps&logoColor=34A853" alt="Location"/>
-  </a>
+  
 </p>
 ---
 
