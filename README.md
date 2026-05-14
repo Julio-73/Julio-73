@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/julio-cesar-quispe-garrido/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href=" https://julio-73.github.io/Ironman-landing-page/"  target="_blank">
+  <a href="https://julio-73.github.io/Ironman-landing-page/"  target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio_Web-0d1117?style=for-the-badge&logo=google-chrome&logoColor=FF6F00" alt="Portfolio"/>
   </a>
   <a href="julioquispe.dev@gmail.com@gmail.com">
