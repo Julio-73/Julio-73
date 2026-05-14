@@ -1,18 +1,38 @@
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Julio+Cesar;Senior+AI+Software+Engineer;Especialista+en+Automatización+%26+BI;Full+Stack+Developer" alt="Typing SVG" />
   </a>
-</h1>
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julio-73/julio-73/main/banner.png" alt="Julio Cesar Senior AI Engineer Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
+  <img src="https://raw.githubusercontent.com/Julio-73/Julio-73/main/banner.png" alt="Julio Cesar Senior AI Engineer Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-cesar-quispe-garrido/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://julio-73.github.io/landing-Page-Julio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-julio--73.github.io-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:julioquispegarrido132@gmail.com"><img src="https://img.shields.io/badge/Email-julioquispegarrido132%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/julio-73"><img src="https://img.shields.io/github/followers/julio-73?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers"/></a>
+  <a href="https://github.com/Julio-73"><img src="https://img.shields.io/github/followers/Julio-73?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers"/></a>
+</p>
+
+---
+
+## 🚀 System Boot
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Julio-73/Julio-73/main/terminal.svg" alt="Julio Cesar Terminal Skills" width="100%" />
+</p>
+
+> Operando como **Full Stack Developer Freelance** y Consultor de Automatización. Estudiante de Ingeniería de Software con IA en SENATI. Especialista en orquestar agentes inteligentes, optimizar procesos con código puro y construir arquitecturas corporativas con un diseño minimalista inspirado en Silicon Valley.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,flutter,nodejs,fastapi,pytorch,tensorflow,docker,kubernetes,aws,gcp,firebase,postgres,mongodb,git,vscode&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
@@ -54,29 +74,28 @@
 
 ---
 
-## 📊 Analíticas de GitHub
+## 🏛️ Arquitectura de IA: Cerebro Veterinario
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julio-73&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF6F00" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julio-73&theme=radical&hide_border=true&bg_color=0d1117&ring=FF6F00&fire=FF6F00&currStreakNum=white" width="48%" alt="Streak Stats" />
-</p>
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#FF6F00', 'tertiaryColor': '#161b22'}}}%%
+graph TD
+    subgraph UI [Frontend Interface]
+        A[👨‍⚕️ Usuario / Veterinario] -->|Consulta Clínica| B(Streamlit Dashboard)
+    end
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julio-73&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
-</p>
+    subgraph RAG_Engine [Motor RAG & Base Vectorial]
+        B -->|Texto a Vector| C{Sentence-Transformers}
+        C -->|Búsqueda de Similitud| D[(FAISS Index DB)]
+        D -.->|Documentos Contextuales| C
+    end
 
-<!-- Generador de contribuciones (Snake). Nota: Requiere configurar un GitHub Action en tu repositorio para que la imagen se genere automáticamente -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julio-73/julio-73/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julio-73/julio-73/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julio-73/julio-73/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+    subgraph LLM_Core [Procesamiento IA]
+        C -->|Contexto + Prompt| E[Groq API / Ollama Phi]
+        E -->|Respuesta Sintetizada| B
+    end
 
----
-
-<div align="center">
-  <p><i>"The best way to predict the future is to build it." — Alan Kay</i></p>
-  <p>Construido con dedicación por <b>Julio Cesar Quispe Garrido</b> | <a href="#top">Volver arriba ☝️</a></p>
-</div>
+    style A fill:#0d1117,stroke:#FF6F00,stroke-width:2px,color:#c9d1d9
+    style B fill:#161b22,stroke:#30363d,stroke-width:2px,color:#c9d1d9
+    style C fill:#161b22,stroke:#30363d,stroke-width:2px,color:#c9d1d9
+    style D fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
+    style E fill:#161b22,stroke:#79c0ff,stroke-width:2px,color:#c9d1d9
