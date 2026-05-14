@@ -65,9 +65,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 NutriMind AI (Arquitectura)</h3>
-      <p>Diseño Blueprint y arquitectura profesional para una aplicación inteligente de nutrición. Frontend móvil con integración backend serverless y modelos de lenguaje avanzados.</p>
-      <p><strong>Stack:</strong> <code>Flutter</code> <code>Firebase</code> <code>Google Gemini</code></p>
+      <h3 align="center">🧬 Reportify — Sistema de Reportes Profesionales  </h3>
+      <p> Aplicación web SaaS de generación de reportes con almacenamiento local persistente y exportación PDF de calidad corporativa. </p>
+      <p><strong>Stack:</strong> <code> Tailwind CSS  </code> <code>  jsPDF </code> <code> html2canvas </code></p>
+       <div align="center">
+        <a href="https://github.com/Julio-73/REPORTIFY"><strong>🔗 Ver Código »</strong></a>
+      </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ PWA Educativa Offline</h3>
