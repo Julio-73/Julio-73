@@ -17,15 +17,13 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 System Boot
 
-Soy un **Ingeniero de Software** apasionado por la construcción de sistemas inteligentes y la arquitectura de datos. Mi trabajo se centra en resolver problemas complejos corporativos mediante la intersección del **Desarrollo Full Stack**, la **Inteligencia Artificial** y la **Automatización de Procesos**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julio-73/julio-73/main/terminal.svg" alt="Julio Cesar Terminal Skills" width="100%" />
+</p>
 
-- 💼 Operando como **Full Stack Developer Freelance y Consultor de Automatización** desde 2025, creando soluciones a medida para empresas.
-- 🎓 Estudiando **Ingeniería de Software con Inteligencia Artificial** en SENATI.
-- ⚙️ **Especialidad:** Creación de workflows avanzados en **n8n**, integración de LLMs (Gemini, ChatGPT, Claude) y desarrollo de Dashboards Corporativos.
-- ⚡ **Filosofía:** Diseño minimalista (estilo Silicon Valley / Apple), código limpio y despliegues de alto impacto.
-
+> Operando como **Full Stack Developer Freelance** y Consultor de Automatización. Especialista en orquestar agentes inteligentes, optimizar procesos logísticos con código puro y construir arquitecturas corporativas con diseño minimalista (Apple / Silicon Valley style).
 ---
 
 ## 🛠️ Stack Tecnológico
