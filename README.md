@@ -9,12 +9,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julio-cesar-quispe-garrido/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://julio-73.github.io/landing-Page-Julio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-julio--73.github.io-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:julioquispegarrido132@gmail.com"><img src="https://img.shields.io/badge/Email-julioquispegarrido132%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Julio-73"><img src="https://img.shields.io/github/followers/Julio-73?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers"/></a>
+  <a href="https://www.linkedin.com/in/julio-cesar-quispe-garrido/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Julio-73"  target="_blank">
+    <img src="https://img.shields.io/badge/-Portafolio_Web-0d1117?style=for-the-badge&logo=google-chrome&logoColor=FF6F00" alt="Portfolio"/>
+  </a>
+  <a href="julioquispe.dev@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/-julioquispegarrido132@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://maps.app.goo.gl/search/San+Juan+de+Miraflores,+Lima,+Peru" target="_blank">
+    <img src="https://img.shields.io/badge/-Lima,_Perú-0d1117?style=for-the-badge&logo=google-maps&logoColor=34A853" alt="Location"/>
+  </a>
 </p>
-
 ---
 
 ## 🚀 System Boot
