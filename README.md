@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="ChatGPT Image 14 may 2026, 20_52_02.png?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Julio+Cesar;Senior+AI+Software+Engineer;Especialista+en+Automatización+%26+BI;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Julio+Cesar;Senior+AI+Software+Engineer;Especialista+en+Automatización+%26+BI;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Julio-73/Julio-73/main/banner.png" alt="Julio Cesar Senior AI Engineer Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
+  <img src="ChatGPT Image 14 may 2026, 20_52_02.png" alt="Julio Cesar Senior AI Engineer Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
 </p>
 
 <p align="center">
