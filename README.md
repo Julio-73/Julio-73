@@ -16,25 +16,6 @@
 </p>
 
 ---
-## 🚀 System Boot 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Julio+Cesar;Senior+AI+Software+Engineer;Especialista+en+Automatización+%26+BI;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Julio-73/Julio-73/main/banner.png" alt="Banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-cesar-quispe-garrido/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://julio-73.github.io/landing-Page-Julio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-julio--73.github.io-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:julioquispegarrido132@gmail.com"><img src="https://img.shields.io/badge/Email-julioquispegarrido132%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Julio-73"><img src="https://img.shields.io/github/followers/Julio-73?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers"/></a>
-</p>
-
-
----
 
 ## 💼 Proyectos Destacados
 
