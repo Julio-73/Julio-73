@@ -73,9 +73,12 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ PWA Educativa Offline</h3>
-      <p>Aplicación web progresiva (PWA) 100% interactiva con buscador de alta velocidad y capacidad de funcionar completamente sin conexión a internet.</p>
-      <p><strong>Stack:</strong> <code>JavaScript (ES6+)</code> <code>HTML5</code> <code>CSS3</code></p>
+      <h3 align="center">⚡ Aplicación Biblica </h3>
+      <p> Aplicación web interactivo de 10 principios fundamentales para conocer a Dios y crecer en la fe cristiana.</p>
+      <p><strong>Stack:</strong> <code> HTML5  </code> <code>CSS3 </code> <code> JavaScript </code> <code> Service Workers </code> </p>
+<div align="center">
+        <a href=" https://github.com/Julio-73/App-Principios-Basicos-"><strong>🔗 Ver Código »</strong></a>
+      </div>
     </td>
   </tr>
 </table>
