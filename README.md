@@ -1,50 +1,28 @@
-📟 SYSTEM_CORE :: NEURAL RUNTIME INITIALIZED
+<div align="center">
 
-julio@autonomous-node:~$ ./deploy_ai_core.sh --prod --verbose
+# Hi 👋, I'm Julio Cesar
 
-[+] Initializing Neural Network Pipelines........................... [OK]
-[+] Loading Vector Store: FAISS Index synchronized (768-dim embeddings)
-[+] Connecting LLM Orchestration: Groq Cloud API, Ollama (Local Llama/Phi)
-[+] Triggering Autonomous Agents: LangChain & n8n Microservices active
-[+] Full-Stack Layer: Next.js / FastAPI high-throughput endpoints online
+![Julio Cesar Banner](https://github.com/Julio-73/Julio-73/raw/main/banner.png)
 
-[SYSTEM STATUS] >> AI Software Engineer Ready for High-Scale Production.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio%20Cesar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Portafolio Web](https://img.shields.io/badge/Portafolio_Web-Live-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://google.com)
+[![Email](https://img.shields.io/badge/Email-julioquispegarrido132%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julioquispegarrido132@gmail.com)
 
+</div>
 
-🧠 Stack Tecnológico & Especialización en IA
+---
 
-AI & VECTOR SEARCH
+### 🚀 System Boot
 
-FULL STACK & ARQUITECTURA CLOUD
+```bash
+julio@macbook-pro:~$ ./deploy_ai_architect.sh
 
-🧬 Arquitectura de IA en Producción: Cerebro Veterinario (RAG Pipeline)
+[+] Iniciando protocolos de Inteligencia Artificial...
+[+] Cargando Core Dev: Python 3.11, JavaScript (ES6+), C++
+[+] Conectando Modelos LLM: Google Gemini, ChatGPT, Claude
+[+] Desplegando Workflows: Pipelines automatizados en n8n [OK]
+[+] Base de Datos Vectorial: FAISS Index sincronizado.
 
-flowchart LR
-    subgraph UI ["🖥️ Capa de Interacción"]
-        User(["Veterinario / Investigador"]) -->|Consulta Clínica| Streamlit["Streamlit Dashboard"]
-    end
+SUCCESS: Senior Full Stack Developer & AI Engineer listos para operar.
 
-    subgraph VectorEngine ["⚡ Motor Vectorial & RAG"]
-        Streamlit -->|Prompt & Texto| Embedder["Sentence Transformers"]
-        Embedder -->|Vector Embeddings| FAISS[("Base Vectorial FAISS")]
-        Docs[("Corpus Médico Clínico")] -.->|Preprocesamiento & Chunks| FAISS
-    end
-
-    subgraph AIInference ["🤖 Inferencia & LLM Core"]
-        FAISS -->|Contexto Relevante| Groq["Groq Cloud / Ollama"]
-        Streamlit -->|Prompt Base| Groq
-        Groq -->|Diagnóstico Asistido Estructurado| Streamlit
-    end
-
-    classDef modern fill:#0f172a,stroke:#00F0FF,stroke-width:2px,color:#fff;
-    classDef storage fill:#1e1b4b,stroke:#a855f7,stroke-width:2px,color:#fff;
-    classDef core fill:#14532d,stroke:#22c55e,stroke-width:2px,color:#fff;
-
-    class Streamlit,Embedder modern;
-    class FAISS,Docs storage;
-    class Groq core;
-
-
-💎 Proyectos Destacados de IA & Full Stack
-
-📈 Métricas de Desarrollo en Tiempo Real
+julio@macbook-pro:~$
