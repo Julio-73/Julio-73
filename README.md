@@ -1,112 +1,50 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Julio+Cesar;Senior+AI+Software+Engineer;Especialista+en+Automatización+%26+BI;Full+Stack+Developer" alt="Typing SVG" />
-  </a>
-</div>
+<!-- Fondo y Rejilla Neuronal -->
+<rect width="100%" height="100%" fill="url(#cyberGrad)" rx="12"/>
+<rect width="100%" height="100%" fill="url(#grid)" rx="12"/>
 
-<p align="center">
-  <img src="ChatGPT Image 14 may 2026, 20_52_02.png" alt="Julio Cesar Senior AI Engineer Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
-</p>
+<!-- Líneas de Circuito y Conexiones -->
+<path d="M 0 40 Q 250 80 500 20 T 900 60" fill="none" stroke="#00F0FF" stroke-width="1.2" opacity="0.4" filter="url(#glow)"/>
+<path d="M 0 190 Q 350 140 600 210 T 900 170" fill="none" stroke="#FF0080" stroke-width="1.2" opacity="0.3" filter="url(#glow)"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-cesar-quispe-garrido/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://julio-73.github.io/Ironman-landing-page/"  target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio_Web-0d1117?style=for-the-badge&logo=google-chrome&logoColor=FF6F00" alt="Portfolio"/>
-  </a>
-  <a href="julioquispe.dev@gmail.com@gmail.com">
-    <img src="https://img.shields.io/badge/-julioquispegarrido132@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  
-</p>
----
+<!-- Tipografía Principal -->
+<text x="50%" y="42%" text-anchor="middle" fill="#FFFFFF" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="34" font-weight="900" letter-spacing="8" filter="url(#glow)">JULIO CESAR</text>
+<text x="50%" y="60%" text-anchor="middle" fill="url(#neonAccent)" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="700" letter-spacing="4">AI SYSTEMS ARCHITECT & FULL STACK ENGINEER</text>
 
-## 🚀 System Boot
+<!-- Barra de Estado Inferior -->
+<rect x="250" y="172" width="400" height="2" fill="url(#neonAccent)"/>
+<circle cx="250" cy="173" r="3" fill="#00F0FF" filter="url(#glow)"/>
+<circle cx="650" cy="173" r="3" fill="#FF0080" filter="url(#glow)"/>
+<text x="50%" y="84%" text-anchor="middle" fill="#7082a6" font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="2">RAG PIPELINES • AGENTIC WORKFLOWS • SCALABLE BACKENDS</text>
+📟 SYSTEM_CORE :: NEURAL RUNTIME INITIALIZEDjulio@autonomous-node:~$ ./deploy_ai_core.sh --prod --verbose
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Julio-73/Julio-73/main/terminal.svg" alt="Julio Cesar Terminal Skills" width="100%" />
-</p>
+[+] Initializing Neural Network Pipelines........................... [OK]
+[+] Loading Vector Store: FAISS Index synchronized (768-dim embeddings)
+[+] Connecting LLM Orchestration: Groq Cloud API, Ollama (Local Llama/Phi)
+[+] Triggering Autonomous Agents: LangChain & n8n Microservices active
+[+] Full-Stack Layer: Next.js / FastAPI high-throughput endpoints online
 
-> Operando como **Full Stack Developer Freelance** y Consultor de Automatización. Estudiante de Ingeniería de Software con IA en SENATI. Especialista en orquestar agentes inteligentes, optimizar procesos con código puro y construir arquitecturas corporativas con un diseño minimalista inspirado en Silicon Valley.
-
----
-
-## 🛠️ Stack Tecnológico
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,flutter,nodejs,fastapi,pytorch,tensorflow,docker,kubernetes,aws,gcp,firebase,postgres,mongodb,git,vscode&theme=dark" alt="Tech Stack" />
-  </a>
-</p>
-
----
-
-## 💼 Proyectos Destacados
-
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Cerebro Veterinario MVP</h3>
-      <p>Asistente inteligente basado en RAG para medicina veterinaria. Responde preguntas utilizando documentos contextuales mediante embeddings de FAISS, sentence-transformers y LLMs impulsados por Groq.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>FAISS</code> <code>Groq</code> <code>Streamlit</code> <code>Ollama</code></p>
-      <div align="center">
-        <a href="https://github.com/julio-73/-CEREBRO-VETERINARIO-MVP"><strong>🔗 Ver Código »</strong></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚚 Dashboard Operativo Logístico</h3>
-      <p>Dashboard corporativo para el análisis de operaciones logísticas en tiempo real. Transforma datos en decisiones estratégicas, reduciendo más de 15 horas semanales de reportes manuales.</p>
-      <p><strong>Stack:</strong> <code>Python 3.11</code> <code>Streamlit</code> <code>Pandas</code> <code>Plotly</code></p>
-      <div align="center">
-        <a href="https://github.com/julio-73/Sistema-Inteligente-de-Control-Operativo-Logistico"><strong>🔗 Ver Código »</strong></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧬 Reportify — Sistema de Reportes Profesionales  </h3>
-      <p> Aplicación web SaaS de generación de reportes con almacenamiento local persistente y exportación PDF de calidad corporativa. </p>
-      <p><strong>Stack:</strong> <code> Tailwind CSS  </code> <code>  jsPDF </code> <code> html2canvas </code></p>
-       <div align="center">
-        <a href="https://github.com/Julio-73/REPORTIFY"><strong>🔗 Ver Código »</strong></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Aplicación Biblica </h3>
-      <p> Aplicación web interactivo de 10 principios fundamentales para conocer a Dios y crecer en la fe cristiana.</p>
-      <p><strong>Stack:</strong> <code> HTML5  </code> <code>CSS3 </code> <code> JavaScript </code> <code> Service Workers </code> </p>
-<div align="center">
-        <a href="https://github.com/Julio-73/App-Principios-Basicos-"><strong>🔗 Ver Código »</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏛️ Arquitectura de IA: Cerebro Veterinario
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#FF6F00', 'tertiaryColor': '#161b22'}}}%%
-graph TD
-    subgraph UI [Frontend Interface]
-        A[👨‍⚕️ Usuario / Veterinario] -->|Consulta Clínica| B(Streamlit Dashboard)
+[SYSTEM STATUS] >> AI Software Engineer Ready for High-Scale Production.
+🧠 Capacidades Técnicas y Stack de IngenieríaCapa TecnológicaTecnologías y ModelosInteligencia Artificial & RAG     Backend & Microservicios   Frontend & Dashboards   Automatización y Flujos  🧬 Arquitectura en Producción: Cerebro Veterinario (RAG Pipeline)flowchart LR
+    subgraph UI ["🖥️ Capa de Interacción"]
+        User(["Veterinario / Investigador"]) -->|Consulta Clínica| Streamlit["Streamlit Dashboard"]
     end
 
-    subgraph RAG_Engine [Motor RAG & Base Vectorial]
-        B -->|Texto a Vector| C{Sentence-Transformers}
-        C -->|Búsqueda de Similitud| D[(FAISS Index DB)]
-        D -.->|Documentos Contextuales| C
+    subgraph VectorEngine ["⚡ Motor Vectorial & RAG"]
+        Streamlit -->|Prompt & Texto| Embedder["Sentence Transformers"]
+        Embedder -->|Vector de Embeddings| FAISS[("Base de Datos FAISS")]
+        Docs[("Corpus Médico Clínico")] -.->|Preprocesamiento & Chunks| FAISS
     end
 
-    subgraph LLM_Core [Procesamiento IA]
-        C -->|Contexto + Prompt| E[Groq API / Ollama Phi]
-        E -->|Respuesta Sintetizada| B
+    subgraph AIInference ["🤖 Inferencia & LLM Core"]
+        FAISS -->|Contexto Relevante| Groq["Groq Cloud / Ollama"]
+        Streamlit -->|Prompt Directo| Groq
+        Groq -->|Diagnóstico Asistido Estructurado| Streamlit
     end
 
-    style A fill:#0d1117,stroke:#FF6F00,stroke-width:2px,color:#c9d1d9
-    style B fill:#161b22,stroke:#30363d,stroke-width:2px,color:#c9d1d9
-    style C fill:#161b22,stroke:#30363d,stroke-width:2px,color:#c9d1d9
-    style D fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
-    style E fill:#161b22,stroke:#79c0ff,stroke-width:2px,color:#c9d1d9
+    classDef modern fill:#0a1226,stroke:#00F0FF,stroke-width:1.5px,color:#fff;
+    classDef storage fill:#1a0f2b,stroke:#FF0080,stroke-width:1.5px,color:#fff;
+    classDef core fill:#042b2b,stroke:#7928CA,stroke-width:1.5px,color:#fff;
+
+    class Streamlit,Embedder modern;
+    class FAISS,Docs storage;
+    class Groq core;
