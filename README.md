@@ -23,21 +23,6 @@
 </div>
 🖥️ Kernel // AI Autonomous Runtime
 
-julio@neural-core:~$ ./start_pipeline.sh
-
-[>] CUDA & TensorRT Engines ........ [ONLINE]
-[>] Vector DBs: Qdrant / FAISS ..... [SYNCED]
-[>] LLM Orchestration: LangGraph ... [ACTIVE]
-[>] Model Pool: Gemini 1.5 & GPT-4o . [READY]
-[>] Automation: n8n Pipelines ...... [DEPLOYED]
-
-STATUS 200: AI Systems Architecture Operational.
-
-🧠 Core Tech Stack & AI Ecosystem
-<div align="center">
-<!-- Badges por categorías: Sin tablas para que nunca se deforme en celular -->
-<p align="center">
-<b>🤖 LLMs & Agent Frameworks</b>
 
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
